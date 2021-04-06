@@ -1,7 +1,7 @@
 ---
 name: student bio
 about: A template PR for student bios
-title: 'Your Name: bio'
+title: 'Jose Tomas: bio'
 labels: student-bio
 ---
 
@@ -14,12 +14,12 @@ labels: student-bio
 
 Quality checks:
 
-- [ ] My markdown code is tidy and contains no mistakes
-- [ ] I have previewed my bio and it looks the way I like it
+- [x]My markdown code is tidy and contains no mistakes.
+- [x]I have previewed my bio and it looks the way I like it.
 
 <!--
   replace "x" with the number of your precourse issue
   an issue's number is listed when you search for it in the repo
 -->
 
-linked to #x
+linked to #16
