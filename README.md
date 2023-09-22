@@ -253,6 +253,17 @@ The more you participate and become part of the HYF community, the more people a
   </td>
 </tr></table> </li>
 <li><table> <tr>
+  <td><img src='./admin/avatars/students/inggritenovaleta.jpeg' height="150px" width="150px" alt='inggritenovaleta avatar' /></td>
+  <td> <h3 display="inline">Inggrit</h3>
+    <ul>
+       <li>about: <a href="./student-bios/inggritenovaleta.md" target="_blank">bio</a>,      <a href="https://inggritenovaleta.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/class-15/projects/1?card_filter_query=assignee%3Ainggritenovaleta">projects</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+author%3Ainggritenovaleta+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+commenter%3Ainggritenovaleta+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=author%3Ainggritenovaleta">authored</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=assignee%3Ainggritenovaleta+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=commenter%3Ainggritenovaleta">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=author%3Ainggritenovaleta">opened</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=reviewed-by%3Ainggritenovaleta+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/pulls?q=commenter%3Ainggritenovaleta">commented</a></li>
+        <li>github: <a href="https://github.com/inggritenovaleta">inggritenovaleta</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./admin/avatars/students/JTLiberona.jpeg' height="150px" width="150px" alt='JTLiberona avatar' /></td>
   <td> <h3 display="inline">José</h3>
     <ul>
@@ -309,7 +320,7 @@ The more you participate and become part of the HYF community, the more people a
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/Moamin-AbuEwaida.jpeg' height="150px" width="150px" alt='Moamin-AbuEwaida avatar' /></td>
-  <td> <h3 display="inline">Moamin</h3>
+  <td> <h3 display="inline">Moamin GOOGLE CONSOLE.LOG abuewaida</h3>
     <ul>
        <li>about: <a href="./student-bios/Moamin-AbuEwaida.md" target="_blank">bio</a>,      <a href="https://Moamin-AbuEwaida.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/class-15/projects/1?card_filter_query=assignee%3AMoamin-AbuEwaida">projects</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+author%3AMoamin-AbuEwaida+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=is%3Aissue+commenter%3AMoamin-AbuEwaida+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=author%3AMoamin-AbuEwaida">authored</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=assignee%3AMoamin-AbuEwaida+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/class-15/issues?q=commenter%3AMoamin-AbuEwaida">commented</a></li>
